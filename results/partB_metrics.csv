@@ -1,0 +1,10 @@
+analysis,model,metric,value
+Regex extraction (50 hand-checked matches),regex,precision,0.96
+MTSamples specialty (6 classes),Naive Bayes,accuracy,0.749
+MTSamples specialty (6 classes),Majority class (Cardiovascular / Pulmonary),accuracy,0.239
+MTSamples specialty (6 classes),Naive Bayes,macro F1,0.761
+MTSamples specialty (6 classes),Majority class (Cardiovascular / Pulmonary),macro F1,0.064
+Medical Abstracts condition (5 classes),Naive Bayes,accuracy,0.533
+Medical Abstracts condition (5 classes),Majority class (general pathological conditions),accuracy,0.333
+Medical Abstracts condition (5 classes),Naive Bayes,macro F1,0.524
+Medical Abstracts condition (5 classes),Majority class (general pathological conditions),macro F1,0.1

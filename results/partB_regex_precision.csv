@@ -1,0 +1,7 @@
+entity,correct,checked,precision,95% CI
+dose,9,10,0.9,"(np.float64(0.6), np.float64(0.98))"
+blood_pressure,10,10,1.0,"(np.float64(0.72), 1.0)"
+heart_rate,10,10,1.0,"(np.float64(0.72), 1.0)"
+temperature,10,10,1.0,"(np.float64(0.72), 1.0)"
+date,9,10,0.9,"(np.float64(0.6), np.float64(0.98))"
+all,48,50,0.96,"(np.float64(0.87), np.float64(0.99))"

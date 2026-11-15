@@ -1,0 +1,4 @@
+task,metric,value
+Authorship attribution (held-out sentences),accuracy,0.9576
+Fake vs real news (Naive Bayes),accuracy,0.6239
+Fake vs real news (Naive Bayes),macro F1,0.5617

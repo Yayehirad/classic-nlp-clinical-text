@@ -1,0 +1,8 @@
+step,n
+Rows in file,4999
+  excluded: empty transcription,33
+Unique notes,2357
+  excluded: only document-type / catch-all labels,83
+  excluded: listed under more than one specialty,569
+  excluded: specialty outside the top 6,618
+Notes in the classification dataset,1087

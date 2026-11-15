@@ -1,0 +1,14 @@
+# Data files are not redistributed (see data/README.md)
+data/*
+!data/README.md
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db

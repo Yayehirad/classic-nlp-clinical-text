@@ -1,0 +1,7 @@
+,precision,recall,f1-score,support
+Cardiovascular / Pulmonary,0.98,0.641,0.775,78
+Orthopedic,0.845,0.79,0.817,62
+General Medicine,0.496,0.95,0.651,60
+Gastroenterology,1.0,0.623,0.767,53
+Urology,1.0,0.632,0.774,38
+Obstetrics / Gynecology,0.696,0.889,0.78,36
